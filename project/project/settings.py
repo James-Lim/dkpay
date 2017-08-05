@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     "52.231.29.84",
     "localhost",
     "127.0.0.1",
+    "dkpay.todorix.com",
 ]
 
 
